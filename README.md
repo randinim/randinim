@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Randi</h1>
+<div>
+  <body bacground color =#1f2033>
+    
+  <h1 align="center">Hi 👋, I'm Randi</h1>
 <h3 align="center">I am an Undergraduate</h3>
+</body>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randinim" alt="randinim" /></a> </p>
 
