@@ -1,3 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #1e1e1e; /* Dark background color */
+            color: #ffffff; /* Light text color */
+            font-family: 'Arial', sans-serif; /* Optional: Choose a suitable font */
+        }
+
+        h1, h3 {
+            color: #61dafb; /* Blue color for headings */
+        }
+
+        a {
+            color: #61dafb; /* Blue color for links */
+        }
+
+        p {
+            color: #ffffff; /* Light text color for paragraphs */
+        }
+
+        img {
+            filter: brightness(0) invert(1); /* Invert colors for images */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Your existing HTML code goes here -->
+
+</body>
+</html>
+
  <h1 align="center">Hi 👋, I'm Randi</h1>
 <h3 align="center">I am an Undergraduate</h3>
 
